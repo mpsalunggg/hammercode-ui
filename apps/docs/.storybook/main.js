@@ -30,6 +30,13 @@ const config = {
           },
         ],
       },
+      css: {
+        postcss: {
+          plugins: [
+            require('@tailwindcss/postcss')(),
+          ],
+        },
+      },
     };
   },
 
