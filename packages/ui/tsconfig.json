@@ -1,5 +1,5 @@
 {
-  "extends": "@hc/typescript-config/react-library.json",
+  "extends": "@hammercode/typescript-config/react-library.json",
   "include": ["."],
   "exclude": ["dist", "build", "node_modules"]
 }
