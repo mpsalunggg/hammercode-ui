@@ -33,7 +33,7 @@ importers:
       '@hc/eslint-config':
         specifier: workspace:*
         version: link:../../packages/eslint-config
-      '@repo/typescript-config':
+      '@hc/typescript-config':
         specifier: workspace:*
         version: link:../../packages/typescript-config
       '@storybook/addon-actions':
@@ -99,7 +99,7 @@ importers:
       '@hc/eslint-config':
         specifier: workspace:*
         version: link:../eslint-config
-      '@repo/typescript-config':
+      '@hc/typescript-config':
         specifier: workspace:*
         version: link:../typescript-config
       '@types/react':
