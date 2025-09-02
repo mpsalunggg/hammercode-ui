@@ -26,7 +26,7 @@ import "@hammercode/ui/styles.css";
 
 ```tsx
 import { Button } from "@hammercode/ui/button";
-
+```
 
 ## Development
 
